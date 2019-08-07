@@ -1,0 +1,170 @@
+=================
+1
+Delta X: -2806.90mm
+Delta Y: 762.91mm
+Delta Z: 535.00mm
+=================
+2
+Delta X: -2836.90mm
+Delta Y: 768.80mm
+Delta Z: 584.00mm
+=================
+3
+Delta X: -2587.85mm
+Delta Y: 769.81mm
+Delta Z: 592.83mm
+=================
+4
+Delta X: -2478.54mm
+Delta Y: 782.23mm
+Delta Z: 609.56mm
+=================
+5
+Delta X: -2141.47mm
+Delta Y: 768.75mm
+Delta Z: 722.20mm
+=================
+6
+Delta X: -2148.19mm
+Delta Y: 747.35mm
+Delta Z: 819.97mm
+=================
+7
+Delta X: -2256.15mm
+Delta Y: 757.06mm
+Delta Z: 793.21mm
+=================
+8
+Delta X: -2166.90mm
+Delta Y: 772.35mm
+Delta Z: 636.00mm
+=================
+9
+Delta X: -2796.90mm
+Delta Y: 756.80mm
+Delta Z: 809.00mm
+=================
+10
+Delta X: -2795.90mm
+Delta Y: 756.80mm
+Delta Z: 789.00mm
+=================
+11
+Delta X: -2598.44mm
+Delta Y: 789.80mm
+Delta Z: 289.62mm
+=================
+12
+Delta X: -2533.61mm
+Delta Y: 788.21mm
+Delta Z: 324.07mm
+=================
+13
+Delta X: -2415.90mm
+Delta Y: 780.35mm
+Delta Z: 266.00mm
+=================
+14
+Delta X: -2603.90mm
+Delta Y: 785.35mm
+Delta Z: 208.00mm
+=================
+15
+Delta X: -2865.90mm
+Delta Y: 779.80mm
+Delta Z: 390.00mm
+=================
+16
+Delta X: -2827.72mm
+Delta Y: 767.08mm
+Delta Z: 318.07mm
+=================
+17
+Delta X: -2824.90mm
+Delta Y: 784.80mm
+Delta Z: 220.00mm
+=================
+18
+Delta X: -3112.22mm
+Delta Y: 778.02mm
+Delta Z: 646.93mm
+=================
+19
+Delta X: -3110.90mm
+Delta Y: 776.35mm
+Delta Z: 564.50mm
+=================
+20
+Delta X: -3205.90mm
+Delta Y: 784.00mm
+Delta Z: 717.00mm
+=================
+22
+Delta X: -3161.40mm
+Delta Y: 784.35mm
+Delta Z: 353.00mm
+=================
+23
+Delta X: -3101.90mm
+Delta Y: 775.64mm
+Delta Z: 271.00mm
+=================
+24
+Delta X: -3479.61mm
+Delta Y: 796.17mm
+Delta Z: 330.83mm
+=================
+25
+Delta X: -3652.38mm
+Delta Y: 788.00mm
+Delta Z: 615.05mm
+=================
+26
+Delta X: -3599.82mm
+Delta Y: 790.74mm
+Delta Z: 498.07mm
+=================
+27
+Delta X: -3460.71mm
+Delta Y: 788.82mm
+Delta Z: 711.31mm
+=================
+28
+Delta X: -3787.19mm
+Delta Y: 780.40mm
+Delta Z: 402.84mm
+=================
+29
+Delta X: -3887.90mm
+Delta Y: 778.00mm
+Delta Z: 431.00mm
+=================
+30
+Delta X: -3929.90mm
+Delta Y: 782.80mm
+Delta Z: 434.50mm
+=================
+31
+Delta X: -3788.40mm
+Delta Y: 782.30mm
+Delta Z: 729.50mm
+=================
+32
+Delta X: -3874.90mm
+Delta Y: 784.50mm
+Delta Z: 221.00mm
+=================
+33
+Delta X: -3676.90mm
+Delta Y: 785.35mm
+Delta Z: 204.50mm
+=================
+34
+Delta X: -3490.90mm
+Delta Y: 785.35mm
+Delta Z: 204.50mm
+=================
+35
+Delta X: -3300.90mm
+Delta Y: 785.35mm
+Delta Z: 205.50mm

@@ -1,0 +1,45 @@
+=================
+0
+Delta X: -2865.90mm
+Delta Y: -779.80mm
+Delta Z: 390.00mm
+=================
+6
+Delta X: -2806.90mm
+Delta Y: -762.91mm
+Delta Z: 535.00mm
+=================
+8
+Delta X: -3110.90mm
+Delta Y: -776.35mm
+Delta Z: 564.50mm
+=================
+9
+Delta X: -2836.90mm
+Delta Y: -768.80mm
+Delta Z: 584.00mm
+=================
+10
+Delta X: -2587.85mm
+Delta Y: -769.81mm
+Delta Z: 592.83mm
+=================
+11
+Delta X: -3112.22mm
+Delta Y: -778.02mm
+Delta Z: 646.93mm
+=================
+16
+Delta X: -3205.90mm
+Delta Y: -784.00mm
+Delta Z: 717.00mm
+=================
+19
+Delta X: -2795.90mm
+Delta Y: -756.80mm
+Delta Z: 789.00mm
+=================
+21
+Delta X: -2796.90mm
+Delta Y: -756.80mm
+Delta Z: 809.00mm
