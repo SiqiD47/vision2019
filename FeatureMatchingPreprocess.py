@@ -4,7 +4,6 @@ AKA: Only the feature points SELECTED by "GUI_Extract3DCoordinates.py" will be s
 on the image saved in the folder "car_xx/std_image/".
 
 Author: Siqi Dai
-ABB
 """
 
 
