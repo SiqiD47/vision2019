@@ -9,7 +9,6 @@ using the method matchfilter2().
 
 Author: Xu Yang
 Modified by: Hanhui Li
-ABB
 """
 
 
