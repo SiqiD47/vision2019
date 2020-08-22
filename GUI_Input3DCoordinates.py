@@ -8,7 +8,6 @@ used by "GUI_Extract3DCoordinates.py" so that the index of a point can be obtain
 user clicks on it.
 
 Author: Siqi Dai
-ABB
 """
 
 
