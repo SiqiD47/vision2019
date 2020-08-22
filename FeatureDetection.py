@@ -3,7 +3,6 @@ This file contains a function that performs blob detection
 
 Author: Xu Yang
 Modified by: Siqi Dai
-ABB
 """
 
 
