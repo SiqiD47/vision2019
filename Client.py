@@ -8,7 +8,6 @@ Once the connection is built:
     if the client sends 'disconnect', the GUI will disconnect from the client.
 
 Author: Siqi Dai
-ABB
 """
 
 
