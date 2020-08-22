@@ -4,7 +4,6 @@ A 4x4 homogeneous matrix will be created. Based on this matrix and the euler rot
 we can get information such as 6-DOF values, quaternion vector, translation vector, etc.
 
 Author: Siqi Dai
-ABB
 """
 
 
