@@ -3,7 +3,6 @@ SolvePNP algorithm for dof6 measurement
 
 Author: Zhongyi Zhou
 Modified by: Siqi Dai
-ABB
 """
 
 
