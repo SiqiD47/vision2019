@@ -3,7 +3,6 @@ This program contains all the important path names and parameters.
 We only need to change them here if necessary and the changes will be applied to all files.
 
 Author: Siqi Dai
-ABB
 """
 
 
