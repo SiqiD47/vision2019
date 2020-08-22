@@ -8,7 +8,6 @@ Note: 1. The user can select whichever points he/she wants using this program.
       3. The user can click on the points on the image to retrieve its index without manually entering it.
 
 Author: Siqi Dai
-ABB
 """
 
 
