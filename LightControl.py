@@ -19,7 +19,6 @@ It sends 8-bit signal to the receiver.
     异或和校验字 ＝ 除校验字外的字节（包括：特征字，命令字，通道字和数据）的异或校验和，校验和的高半字节ASCII码在前，低半字节ASCII码在后。
 
 Author: Siqi Dai
-ABB
 """
 
 
