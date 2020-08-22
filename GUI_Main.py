@@ -14,7 +14,6 @@ Note: For simplicity, camera1 = camera left; camera2 = camera right;
       camera3 = camera left2; camera4 = camera right2
 
 Author: Siqi Dai
-ABB
 """
 
 
