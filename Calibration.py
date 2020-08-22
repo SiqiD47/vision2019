@@ -10,7 +10,6 @@ Four cameras will be calibrated at the same time.
 
 Author: Zhongyi Zhou
 Modified by: Siqi Dai
-ABB
 """
 
 
