@@ -7,7 +7,6 @@ All the detected feature points will be shown on the image saved in the folder
 to let the user select feature points of interest.
 
 Author: Siqi Dai
-ABB
 """
 
 
