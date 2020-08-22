@@ -2,7 +2,6 @@
 Eye-to-hand calibration.
 
 Author: Siqi Dai
-ABB
 """
 
 
